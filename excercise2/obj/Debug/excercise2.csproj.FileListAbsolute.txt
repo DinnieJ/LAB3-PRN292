@@ -1,0 +1,9 @@
+D:\Software shit\C#\Lab3\Lab3\excercise2\bin\Debug\excercise2.exe
+D:\Software shit\C#\Lab3\Lab3\excercise2\bin\Debug\excercise2.pdb
+D:\Software shit\C#\Lab3\Lab3\excercise2\obj\Debug\excercise2.Form1.resources
+D:\Software shit\C#\Lab3\Lab3\excercise2\obj\Debug\excercise2.Properties.Resources.resources
+D:\Software shit\C#\Lab3\Lab3\excercise2\obj\Debug\excercise2.csproj.GenerateResource.cache
+D:\Software shit\C#\Lab3\Lab3\excercise2\obj\Debug\excercise2.csproj.CoreCompileInputs.cache
+D:\Software shit\C#\Lab3\Lab3\excercise2\obj\Debug\excercise2.exe
+D:\Software shit\C#\Lab3\Lab3\excercise2\obj\Debug\excercise2.pdb
+D:\Software shit\C#\Lab3\Lab3\excercise2\obj\Debug\excercise2.csprojAssemblyReference.cache
